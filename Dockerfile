@@ -1,4 +1,4 @@
-FROM ubuntu:15.10
+FROM ubuntu:18.04
 
 MAINTAINER Yannick Pereira-Reis <yannick.pereira.reis@gmail.com>
 
